@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-This School is so cool!
-=======
-Best school
->>>>>>> update_script
+#!/bin/bash
+echo "Best School"
